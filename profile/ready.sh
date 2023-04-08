@@ -1,0 +1,4 @@
+ready(){
+  echo "======================"
+	echo "Executed!"
+}
